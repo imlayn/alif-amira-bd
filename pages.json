@@ -3,7 +3,7 @@
     "id": 1,
     "planete": "Planète d'Alif / Planète d'Im",
     "personnage": null,
-    "image": "images/page-1.svg",
+    "image": "page-1.svg",
     "dialogue": [
       "Alif est sur sa planète, un petit écran devant lui affiche « ZAWA SHOW ».",
       "Im est sur sa planète, un livre de chinois à la main.",
@@ -14,7 +14,7 @@
     "id": 2,
     "planete": "Planète du bar brésilien",
     "personnage": null,
-    "image": "images/page-2.svg",
+    "image": "page-2.svg",
     "dialogue": [
       "Alif et Im se retrouvent et s'embrassent devant un bar brésilien, sur une petite planète.",
       "Im : « Viens, on fait le tour des planètes et des étoiles. »",
@@ -25,7 +25,7 @@
     "id": 3,
     "planete": "Planète des révolutionnaires",
     "personnage": "Karl Marx, Trotsky, Lénine",
-    "image": "images/page-3.svg",
+    "image": "page-3.svg",
     "dialogue": [
       "Ils arrivent sur une nouvelle planète et trouvent Karl Marx, Trotsky et Lénine.",
       "Alif : « Salut les vieux ! »",
@@ -36,7 +36,7 @@
     "id": 4,
     "planete": "Planète du campiste",
     "personnage": "Wiwi (jeune homme brun barbu) et son petit chien",
-    "image": "images/page-4.svg",
+    "image": "page-4.svg",
     "dialogue": [
       "Ils arrivent sur une planète où ils voient un jeune homme brun barbu avec un petit chien.",
       "Alif : « Ah mais c'est Wiwi ! »",
@@ -47,7 +47,7 @@
     "id": 5,
     "planete": "Planète de l'Exégète",
     "personnage": "Bébé Christ",
-    "image": "images/page-5.svg",
+    "image": "page-5.svg",
     "dialogue": [
       "Ils arrivent sur une nouvelle planète : un manoir avec écrit « Exégète » et un bébé Christ qui joue dans le jardin.",
       "Im : « Mais c'est bébé Jésus ! »",
@@ -58,7 +58,7 @@
     "id": 6,
     "planete": "En transit dans les étoiles",
     "personnage": null,
-    "image": "images/page-6.svg",
+    "image": "page-6.svg",
     "dialogue": [
       "Ils voyagent longtemps dans les étoiles sans arriver.",
       "Im : « On y est presque ? »",
@@ -69,7 +69,7 @@
     "id": 7,
     "planete": "Planète du grand Chat",
     "personnage": "Un grand Chat gris en mode vampire",
-    "image": "images/page-7.svg",
+    "image": "page-7.svg",
     "dialogue": [
       "Ils arrivent devant un grand Chat gris en mode vampire.",
       "Im : « Oh ! »",
@@ -80,7 +80,7 @@
     "id": 8,
     "planete": "En transit, à trois",
     "personnage": "Le Chat",
-    "image": "images/page-8.svg",
+    "image": "page-8.svg",
     "dialogue": [
       "Ils embarquent le Chat et voyagent encore à trois dans les étoiles."
     ]
@@ -89,7 +89,7 @@
     "id": 9,
     "planete": "Terre — champ de foie",
     "personnage": null,
-    "image": "images/page-9.svg",
+    "image": "page-9.svg",
     "dialogue": [
       "Ils arrivent sur Terre, dans un vaste champ de foies (l'organe).",
       "Im : « C'est vraiment très romantique. »"
@@ -99,7 +99,7 @@
     "id": 10,
     "planete": "Terre",
     "personnage": null,
-    "image": "images/page-10.svg",
+    "image": "page-10.svg",
     "dialogue": [
       "Ils s'étreignent et disent ensemble : « Kbida ! »"
     ]

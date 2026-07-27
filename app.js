@@ -96,7 +96,7 @@
     touchStartX = null;
   }, { passive: true });
 
-  fetch('data/pages.json')
+  fetch('pages.json')
     .then((res) => res.json())
     .then((data) => {
       pages = data;
